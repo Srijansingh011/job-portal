@@ -2,12 +2,7 @@
   
 # 🚀 Modern MERN Job Portal
 
-<a href="https://job-portal-gray-nine.vercel.app/" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=36&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&width=600&height=70&lines=🚀+View+Live+Demo;✨+Click+Here+To+Explore!" alt="Live Demo Link" />
-</a>
-
-<br/>
-
+[![Live Demo](https://img.shields.io/badge/Live_Demo_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://job-portal-gray-nine.vercel.app/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
