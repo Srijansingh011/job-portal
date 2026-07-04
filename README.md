@@ -13,7 +13,11 @@ A beautiful, full-stack Job Portal application built with the **MERN** stack (Mo
 
 <br />
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://job-portal-gray-nine.vercel.app/)
+<div align="center">
+
+# [🚀 CLICK HERE TO VIEW LIVE DEMO 🌐](https://job-portal-gray-nine.vercel.app/)
+
+</div>
 
 ## ✨ Key Features
 
