@@ -3,7 +3,7 @@
 # 🚀 Modern MERN Job Portal
 
 <a href="https://job-portal-gray-nine.vercel.app/" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=500&color=9333EA&center=true&vCenter=true&width=400&lines=🌐+View+Live+Demo;🚀+Click+Here+To+Explore!" alt="Live Demo Link" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=36&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&width=600&height=70&lines=🚀+View+Live+Demo;✨+Click+Here+To+Explore!" alt="Live Demo Link" />
 </a>
 
 <br/>
