@@ -15,7 +15,7 @@ A beautiful, full-stack Job Portal application built with the **MERN** stack (Mo
 
 <div align="center">
 
-# [🚀 CLICK HERE TO VIEW LIVE DEMO 🌐](https://job-portal-gray-nine.vercel.app/)
+# [🚀 LIVE DEMO 🌐](https://job-portal-gray-nine.vercel.app/)
 
 </div>
 
