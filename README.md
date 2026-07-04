@@ -45,50 +45,7 @@ This platform provides two dedicated experiences based on user roles:
 | Shadcn / UI | BcryptJS | |
 | Framer Motion | Multer | |
 
----
 
-## ⚙️ Environment Variables
-
-To run this project, you will need to add the following environment variables to your `backend/.env` file:
-
-```env
-PORT=8000
-MONGO_URI=mongodb://username:password@cluster.mongodb.net/jobportal?...
-SECRET_KEY=your_super_secret_jwt_key
-CLOUD_NAME=your_cloudinary_cloud_name
-API_KEY=your_cloudinary_api_key
-API_SECRET=your_cloudinary_api_secret
-```
-
----
-
-## 🚀 Getting Started
-
-Follow these steps to run the project locally on your machine.
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/Srijansingh011/job-portal.git
-cd job-portal
-```
-
-### 2. Setup the Backend
-Open a terminal and navigate to the backend folder:
-```bash
-cd backend
-npm install
-npm run dev
-```
-*(The backend server will start on `http://localhost:8000`)*
-
-### 3. Setup the Frontend
-Open a **new** terminal and navigate to the frontend folder:
-```bash
-cd frontend
-npm install
-npm run dev
-```
-*(The frontend application will start on `http://localhost:5173`)*
 
 <br />
 
