@@ -2,7 +2,6 @@
   
 # 🚀 Modern MERN Job Portal
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://job-portal-gray-nine.vercel.app/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
@@ -13,6 +12,8 @@ A beautiful, full-stack Job Portal application built with the **MERN** stack (Mo
 </div>
 
 <br />
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://job-portal-gray-nine.vercel.app/)
 
 ## ✨ Key Features
 
